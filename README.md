@@ -35,35 +35,15 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=gruvbox&row=1&column=7" alt="trophies" />
-</p>
-
----
-
 ### 🔗 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
   <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
-  <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
+  <a href="mailto:shuelkiin@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
 </p>
 
 ---
 
 <!-- Footer -->
-<p align="center">✨ Crafted with ❤️ by [shuel kiin] ✨</p>
+<p align="center">✨ Crafted with ❤️ by shuel kiin ✨</p>
