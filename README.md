@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm shuel kiin</h1>
+<h3 align="center">A passionate software and web developer from kenya</h3>
 
 <!-- Typing SVG effect -->
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/shuelkiin">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
   </a>
 </p>
@@ -38,8 +38,6 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
-  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
   <a href="mailto:shuelkiin@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
 </p>
 
